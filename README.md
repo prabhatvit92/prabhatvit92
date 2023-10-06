@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -11,7 +13,7 @@
   <a href="prabhatmishra3112@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="7004596360" target="_blank">
+  <a href="https://wa.me/7004596360" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
@@ -26,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand<br><br>- 📚 I'm currently learning Machine Learning and AI<br>- ⚡ In my free time I Travel, play volleyball and swim</p>
+<p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand.<br><br>🚀  Java Enthusiast | Machine Learning & AI Explorer | Front-End Dev  Aficionado 🤖<br><br>🌟 Crafting pixel-perfect web experiences with a passion for clean code and dynamic designs.<br><br>🔥 Fluent in the language of Java, turning code into beautifully functional solutions.<br><br>🤖 Embracing the future with a deep dive into Machine Learning and AI, shaping tomorrow's tech today.<br><br>🤖 Automating tasks like a wizard, because efficiency is the key to innovation.<br><br>👩‍💻 Join me on this exhilarating journey of coding, learning, and reshaping the digital world! 🚀✨<br><br>#CodeArtist #MLExplorer #AIAdventurer #AutomationWizard</p>
 
 ###
 
