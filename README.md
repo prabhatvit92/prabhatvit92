@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Machine Learning and AI<br>- ⚡ In my free time I Travel, play volleyball and swim</p>
+<p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand<br><br>- 📚 I'm currently learning Machine Learning and AI<br>- ⚡ In my free time I Travel, play volleyball and swim</p>
 
 ###
 
