@@ -28,36 +28,10 @@
 
 ###
 
-<p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand.<br><br>🚀  Java Enthusiast | Machine Learning & AI Explorer | Front-End Dev  Aficionado 🤖<br><br>🌟 Crafting pixel-perfect web experiences with a passion for clean code and dynamic designs.<br><br>🔥 Fluent in the language of Java, turning code into beautifully functional solutions.<br><br>🤖 Embracing the future with a deep dive into Machine Learning and AI, shaping tomorrow's tech today.<br><br>🤖 Automating tasks like a wizard, because efficiency is the key to innovation.<br><br>👩‍💻 Join me on this exhilarating journey of coding, learning, and reshaping the digital world! 🚀✨<br><br>#CodeArtist #MLExplorer #AIAdventurer #AutomationWizard</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand.<br><br>
+🚀 Data Scientist | Machine Learning & AI Enthusiast 🤖<br><br>🌟 Turning data into actionable insights, with a passion for solving real-world problems using advanced analytics and data-driven strategies.<br><br>🔥 Fluent in Python, SQL, and Machine Learning algorithms, building predictive models that drive business growth and innovation.<br><br>🤖 Exploring the depths of AI and Deep Learning, shaping tomorrow’s technology through data and automation.
+<br><br>📊 Visualizing stories through data, crafting interactive dashboards and presenting insights that empower decision-making.<br><br>💡 Always innovating and automating processes because efficiency is the cornerstone of progress.<br><br> 👨‍💻 Join me on this exciting journey of exploring data, learning new technologies, and reshaping the future with AI and Machine Learning! 🚀✨
+<br><br>#DataScientist #MLExplorer #AIInnovator #DataDriven</p>
 
 ###
