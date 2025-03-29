@@ -30,7 +30,7 @@
 
 
 <p align="left">I'm Prabhat Kumar Mishra from Jamshedpur, Jharkhand.<br><br>
-🚀 Data Scientist | Machine Learning & AI Enthusiast 🤖<br><br>🌟 Turning data into actionable insights, with a passion for solving real-world problems using advanced analytics and data-driven strategies.<br><br>🔥 Fluent in Python, SQL, and Machine Learning algorithms, building predictive models that drive business growth and innovation.<br><br>🤖 Exploring the depths of AI and Deep Learning, shaping tomorrow’s technology through data and automation.
+🚀 Data Analyst | Machine Learning & AI Enthusiast 🤖<br><br>🌟 Turning data into actionable insights, with a passion for solving real-world problems using advanced analytics and data-driven strategies.<br><br>🔥 Fluent in Python, SQL, and Machine Learning algorithms, building predictive models that drive business growth and innovation.<br><br>🤖 Exploring the depths of AI and Deep Learning, shaping tomorrow’s technology through data and automation.
 <br><br>📊 Visualizing stories through data, crafting interactive dashboards and presenting insights that empower decision-making.<br><br>💡 Always innovating and automating processes because efficiency is the cornerstone of progress.<br><br> 👨‍💻 Join me on this exciting journey of exploring data, learning new technologies, and reshaping the future with AI and Machine Learning! 🚀✨
 <br><br>#DataScientist #MLExplorer #AIInnovator #DataDriven</p>
 
